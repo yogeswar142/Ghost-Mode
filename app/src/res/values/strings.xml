@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ghostmode</string>
+
+    <string name="lock_title">Enter App Password</string>
+    <string name="lock_hint_password">Password</string>
+    <string name="lock_button_unlock">Unlock</string>
+    <string name="lock_button_reset_data">Reset App Data</string>
+    <string name="lock_error_empty_password">Password cannot be empty</string>
+    <string name="lock_error_invalid_password">Incorrect password</string>
+
+    <string name="home_title">Home</string>
+    <string name="home_apps_title">Supported Apps</string>
+    <string name="home_app_whatsapp">WhatsApp</string>
+
+    <string name="permission_dialog_title">Notification Access Required</string>
+    <string name="permission_dialog_message">Notification access is required to save messages from supported apps. Please enable notification access in settings.</string>
+    <string name="permission_dialog_enable">Enable</string>
+    <string name="permission_dialog_later">Later</string>
+
+    <string name="nav_chats">Chats</string>
+    <string name="nav_pinned">Pinned</string>
+    <string name="nav_analytics">Analytics</string>
+
+    <string name="whatsapp_chats_placeholder">Chats will appear here</string>
+    <string name="whatsapp_pinned_placeholder">Pinned messages</string>
+    <string name="whatsapp_analytics_placeholder">Analytics coming soon</string>
+</resources>
+
