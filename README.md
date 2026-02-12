@@ -193,11 +193,14 @@ It only processes notification data made available by Android.
 
 ------------------------------------------------------------------------
 
+
 ## 👨‍💻 Author
 
-**Yogeswara Rao**\
-Android Developer \| System Builder \| Problem Solver
+**Yogeswar** *Aspiring Software Engineer & AI Enthusiast*
+
+* [LinkedIn](https://linkedin.com/in/your-profile)
+* [Portfolio](https://your-portfolio.com)
+
 
 ------------------------------------------------------------------------
 
-⭐ If you found this project interesting, consider giving it a star!
