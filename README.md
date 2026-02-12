@@ -22,11 +22,6 @@ database flows, and real-time UI updates.
 -   Uses `NotificationListenerService`
 -   Parses MessagingStyle for full message extraction
 -   Captures expanded message content (not truncated preview)
--   Filters out:
-    -   "1 new message" summaries
-    -   "Sending..." progress messages
-    -   "This message was deleted" system messages
--   Prevents duplicate message insertion
 
 ------------------------------------------------------------------------
 
